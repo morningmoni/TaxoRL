@@ -48,7 +48,7 @@ def load_paths_and_word_vectors(corpus, dataset_keys, lemma_index, keys, string_
     x_y_vectors = [(lemma_index.get(x, 0), lemma_index.get(y, 0)) for (x, y) in dataset_keys]
 
     print 'Getting features for x y...'
-    hyper2hypo = pickle.load(open('candidates_taxi/all_freq_twodatasets.pkl', 'rb'))
+    hyper2hypo = pickle.load(open('../datasets/SemEval-2016/candidates_taxi/all_freq_twodatasets.pkl', 'rb'))
     hypo2hyper = defaultdict(lambda: defaultdict(int))
     for hyper in hyper2hypo:
         for hypo in hyper2hypo[hyper]:

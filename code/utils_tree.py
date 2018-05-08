@@ -457,7 +457,7 @@ def load_candidate_from_pickle(trees):
         ct = 0
         ct_substr = 0
         hyper2hypo_w_freq = pickle.load(
-            open('candidates_taxi/{}.pkl'.format(T.filename + '.candidate_w_freq'), 'rb'))
+            open('../datasets/SemEval-2016/candidates_taxi/{}.pkl'.format(T.filename + '.candidate_w_freq'), 'rb'))
         for hyper in hyper2hypo_w_freq:
             for hypo in hyper2hypo_w_freq[hyper]:
                 if hyper2hypo_w_freq[hyper][hypo] >= 20:
