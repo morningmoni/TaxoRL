@@ -1,0 +1,124 @@
+0	agronomy	applied sciences
+1	cybernetics	applied sciences
+2	electrotechnology	applied sciences
+3	industrial chemistry	applied sciences
+4	information science	applied sciences
+5	mathematics	applied sciences
+6	biometrics	mathematics
+7	metrology	applied sciences
+8	cindynics	earth sciences
+9	geography	earth sciences
+10	cartography	geography
+11	cultural geography	geography
+12	economic geography	geography
+13	geographical information system	geography
+14	historical geography	geography
+15	human geography	geography
+16	political geography	geography
+17	regional geography	geography
+18	geology	earth sciences
+19	geochemistry	geology
+20	geophysics	geology
+21	geodesy	geophysics
+22	hydrogeology	geology
+23	mineralogy	geology
+24	petrology	geology
+25	sedimentology	geology
+26	seismology	geology
+27	volcanology	geology
+28	geomorphology	earth sciences
+29	hydrology	earth sciences
+30	meteorology	earth sciences
+31	climatology	meteorology
+32	bioclimatology	meteorology
+33	oceanography	earth sciences
+34	soil science	earth sciences
+35	soil analysis	soil science
+36	soil chemistry	soil science
+37	soil type	soil science
+38	biology	life sciences
+39	botany	biology
+40	plant taxonomy	botany
+41	cytology	biology
+42	embryo and foetus	biology
+43	genetics	biology
+44	DNA	genetics
+45	eugenics	genetics
+46	histology	biology
+47	microorganism	biology
+48	neurobiology	biology
+49	radiobiology	biology
+50	stem cell	biology
+51	zoology	biology
+52	animal taxonomy	zoology
+53	ecology	life sciences
+54	parasitology	life sciences
+55	pharmacology	life sciences
+56	acoustics	physical sciences
+57	aerodynamics	physical sciences
+58	chemistry	physical sciences
+59	analytical chemistry	chemistry
+60	biochemistry	chemistry
+61	enzyme	biochemistry
+62	electrochemistry	chemistry
+63	photochemistry	chemistry
+64	electronics	physical sciences
+65	ionising radiation	physical sciences
+66	laser physics	physical sciences
+67	nuclear physics	physical sciences
+68	atom	nuclear physics
+69	fundamental particle	nuclear physics
+70	optics	physical sciences
+71	plasma physics	physical sciences
+72	spectrometry	physical sciences
+73	thermodynamics	physical sciences
+74	astronautics	space science
+75	astronomy	space science
+76	cosmology	astronomy
+77	criminology	behavioural sciences
+78	psychoanalysis	behavioural sciences
+79	psychology	behavioural sciences
+80	personality	psychology
+81	sexuality	psychology
+82	psychometric test	psychology
+83	administrative science	social sciences
+84	archaeology	social sciences
+85	economics	social sciences
+86	ethnology	social sciences
+87	ethnography	ethnology
+88	history	social sciences
+89	ancient history	history
+90	contemporary history	history
+91	historical figure	history
+92	medieval history	history
+93	modern history	history
+94	prehistory	history
+95	world history	history
+96	linguistics	social sciences
+97	language	linguistics
+98	bilingualism	language
+99	multilingualism	language
+100	language policy	linguistics
+101	living language	linguistics
+102	European language	living language
+103	minority language	living language
+104	non-European language	living language
+105	regional language	living language
+106	philosophy	social sciences
+107	ethics	philosophy
+108	philosophy of science	philosophy
+109	political science	social sciences
+110	geopolitics	political science
+111	sociology	social sciences
+112	industrial sociology	sociology
+113	political sociology	sociology
+114	rural sociology	sociology
+115	sociology of education	sociology
+116	urban sociology	sociology
+117	applied sciences	science
+118	earth sciences	science
+119	life sciences	science
+120	physical sciences	science
+121	space science	science
+122	behavioural sciences	science
+123	social sciences	science

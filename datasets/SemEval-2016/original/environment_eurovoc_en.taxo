@@ -1,0 +1,261 @@
+0	adaptation to climate change	climate change policy
+1	clean development mechanism	climate change policy
+2	emission allowance	climate change policy
+3	EU emission allowance	emission allowance
+4	emission trading	climate change policy
+5	EU Emissions Trading Scheme	emission trading
+6	joint implementation	climate change policy
+7	reduction of gas emissions	climate change policy
+8	area management	environmental policy
+9	cost of pollution	environmental policy
+10	economic instrument for the environment	environmental policy
+11	deposit on a polluting product	economic instrument for the environment
+12	environmental tax	economic instrument for the environment
+13	tradeable emission permit	economic instrument for the environment
+14	environmental economics	environmental policy
+15	environmental education	environmental policy
+16	environmental impact	environmental policy
+17	environmental indicator	environmental policy
+18	environmental law	environmental policy
+19	environmental liability	environmental law
+20	environmental standard	environmental law
+21	biological standard	environmental standard
+22	environmental monitoring	environmental policy
+23	environmental research	environmental policy
+24	environmental statistics	environmental research
+25	EU environmental policy	environmental policy
+26	fight against wastage	environmental policy
+27	management of resources	environmental policy
+28	evaluation of resources	management of resources
+29	exploitation of resources	management of resources
+30	exhaustion of resources	exploitation of resources
+31	exploitation of the sea-bed	exploitation of resources
+32	exploitation of the seas	exploitation of resources
+33	over-exploitation of resources	exploitation of resources
+34	replacement of resources	management of resources
+35	quality of the environment	environmental policy
+36	risk prevention	environmental policy
+37	industrial hazard	risk prevention
+38	natural hazard	risk prevention
+39	coastal protection	environmental protection
+40	conservation of resources	environmental protection
+41	countryside conservation	environmental protection
+42	fight against insects	environmental protection
+43	fire protection	environmental protection
+44	protected area	environmental protection
+45	national park	protected area
+46	national city park	environmental protection
+47	nature reserve	protected area
+48	protection of animal life	environmental protection
+49	hunting regulations	protection of animal life
+50	protection of animals	protection of animal life
+51	protection of plant life	environmental protection
+52	seismic monitoring	protection of plant life
+53	water protection	protection of plant life
+54	decontamination	pollution control measures
+55	noise protection	pollution control measures
+56	non-polluting vehicle	pollution control measures
+57	polluter pays principle	pollution control measures
+58	pollution control	pollution control measures
+59	degree of pollution	pollution control
+60	prevention of pollution	pollution control measures
+61	anti-pollution device	prevention of pollution
+62	biodegradability	prevention of pollution
+63	storage of waste	waste management
+64	underground storage of waste	storage of waste
+65	waste disposal	waste management
+66	dumping of waste	waste disposal
+67	waste incineration	waste disposal
+68	waste recycling	waste management
+69	use of water	water management
+70	atmospheric conditions	climate
+71	climatic zone	climate
+72	equatorial zone	climatic zone
+73	frigid zone	climatic zone
+74	humid zone	climatic zone
+75	subtropical zone	climatic zone
+76	temperate zone	climatic zone
+77	tropical zone	climatic zone
+78	arid zone	geophysical environment
+79	desert	geophysical environment
+80	estuary	geophysical environment
+81	island	geophysical environment
+82	lake	geophysical environment
+83	mountain	geophysical environment
+84	ocean	geophysical environment
+85	Antarctic Ocean	ocean
+86	Arctic Ocean	ocean
+87	Atlantic Ocean	ocean
+88	Baltic Sea	Atlantic Ocean
+89	English Channel	Atlantic Ocean
+90	Irish Sea	Atlantic Ocean
+91	North Sea	Atlantic Ocean
+92	Norwegian Sea	Atlantic Ocean
+93	Indian Ocean	ocean
+94	Pacific Ocean	ocean
+95	plain	geophysical environment
+96	polar region	geophysical environment
+97	Antarctica	polar region
+98	Arctic	polar region
+99	sea	geophysical environment
+100	Black Sea	sea
+101	Caspian Sea	sea
+102	Mediterranean Sea	sea
+103	Adriatic Sea	Mediterranean Sea
+104	Aegean Sea	Mediterranean Sea
+105	Ionian Sea	Mediterranean Sea
+106	Ligurian Sea	Mediterranean Sea
+107	Tyrrhenian Sea	Mediterranean Sea
+108	Red Sea	sea
+109	watercourse	geophysical environment
+110	animal resources	natural resources
+111	energy resources	natural resources
+112	mineral resources	natural resources
+113	plant resources	natural resources
+114	renewable resources	natural resources
+115	resources of the sea	natural resources
+116	soil resources	natural resources
+117	underwater mineral resources	natural resources
+118	water resources	natural resources
+119	aquatic environment	physical environment
+120	marine environment	aquatic environment
+121	littoral	marine environment
+122	sea-bed	marine environment
+123	continental shelf	sea-bed
+124	inshore grounds	sea-bed
+125	water	aquatic environment
+126	bathing water	water
+127	drinking water	water
+128	freshwater	water
+129	groundwater	water
+130	ice	water
+131	percolation water	water
+132	saltwater	water
+133	stagnant water	water
+134	surface water	water
+135	atmosphere	physical environment
+136	ozone	atmosphere
+137	biosphere	physical environment
+138	biodiversity	biosphere
+139	ecological balance	physical environment
+140	ecosystem	physical environment
+141	biotope	ecosystem
+142	marine ecosystem	ecosystem
+143	terrestrial ecosystem	ecosystem
+144	animal life	wildlife
+145	bird	animal life
+146	insect	animal life
+147	reptile	animal life
+148	wild mammal	animal life
+149	bear	wild mammal
+150	Chiroptera	wild mammal
+151	fur-bearing animal	wild mammal
+152	lynx	wild mammal
+153	marine mammal	wild mammal
+154	dolphin	marine mammal
+155	seal	marine mammal
+156	whale	marine mammal
+157	marsupial	wild mammal
+158	monkey	wild mammal
+159	rodent	wild mammal
+160	wolf	wild mammal
+161	marine life	wildlife
+162	plant life	wildlife
+163	harmful plant	plant life
+164	protected species	wildlife
+165	acid rain	degradation of the environment
+166	climate change	degradation of the environment
+167	global warming	climate change
+168	corrosion	degradation of the environment
+169	defoliation	degradation of the environment
+170	deforestation	degradation of the environment
+171	desertification	degradation of the environment
+172	destruction of crops	degradation of the environment
+173	disaster area	degradation of the environment
+174	fire	degradation of the environment
+175	man-made disaster	degradation of the environment
+176	natural disaster	degradation of the environment
+177	agricultural disaster	natural disaster
+178	bad weather	natural disaster
+179	cyclone	natural disaster
+180	drought	natural disaster
+181	earthquake	natural disaster
+182	erosion	natural disaster
+183	flood	natural disaster
+184	volcanic eruption	natural disaster
+185	polluted area	degradation of the environment
+186	sensitive area	degradation of the environment
+187	dangerous substance	nuisance
+188	carcinogenic substance	dangerous substance
+189	inflammable product	dangerous substance
+190	toxic substance	dangerous substance
+191	electromagnetic interference	nuisance
+192	non-ionising radiation	electromagnetic interference
+193	mechanical vibration	nuisance
+194	noise	nuisance
+195	noise level	noise
+196	pollutant	nuisance
+197	atmospheric pollutant	pollutant
+198	combustion gases	atmospheric pollutant
+199	dust	atmospheric pollutant
+200	greenhouse gas	atmospheric pollutant
+201	stratospheric pollutant	atmospheric pollutant
+202	pesticide residue	pollutant
+203	water pollutant	pollutant
+204	thermal discharge	nuisance
+205	biodiversity	pollution
+206	acidification	pollution
+207	atmospheric pollution	pollution
+208	greenhouse effect	atmospheric pollution
+209	chemical pollution	pollution
+210	coastal pollution	pollution
+211	food contamination	pollution
+212	industrial pollution	pollution
+213	local pollution	pollution
+214	metal pollution	pollution
+215	motor vehicle pollution	pollution
+216	noise pollution	pollution
+217	oil pollution	pollution
+218	organic pollution	pollution
+219	pollution from agricultural sources	pollution
+220	pollution from ships	pollution
+221	radioactive pollution	pollution
+222	soil pollution	pollution
+223	stratospheric pollution	pollution
+224	thermal pollution	pollution
+225	water pollution	pollution
+226	eutrophication	water pollution
+227	marine pollution	water pollution
+228	pollution from land-based sources	marine pollution
+229	pollution of waterways	water pollution
+230	agricultural waste	waste
+231	chemical waste	waste
+232	domestic waste	waste
+233	electronic waste	waste
+234	export of waste	waste
+235	hazardous waste	waste
+236	hospital waste	waste
+237	industrial waste	waste
+238	metal waste	waste
+239	non-recoverable waste	waste
+240	radioactive waste	waste
+241	radioactive effluent	radioactive waste
+242	sewage sludge	waste
+243	unauthorised dumping	waste
+244	used oil	waste
+245	wastewater	waste
+246	climate change policy	environment
+247	environmental policy	environment
+248	environmental protection	environment
+249	pollution control measures	environment
+250	waste management	environment
+251	water management	environment
+252	climate	environment
+253	geophysical environment	environment
+254	natural resources	environment
+255	physical environment	environment
+256	wildlife	environment
+257	degradation of the environment	environment
+258	nuisance	environment
+259	pollution	environment
+260	waste	environment
