@@ -1,6 +1,6 @@
 # TaxoRL
 
-code for "End-to-End Reinforcement Learning for Automatic Taxonomy Induction" ACL 2018
+code for "End-to-End Reinforcement Learning for Automatic Taxonomy Induction" ACL 2018 [[arXiv]](https://arxiv.org/abs/1805.04044)
 
 ## Requirements
 
@@ -25,3 +25,7 @@ Preprocessed pickled data including everything else for the WordNet data and Sem
 Run train_RL.py for training and testing. All the parameters are in *argparse* and have default values so that you can run without specifying any parameters (but feel free to tune them).
 
 In each epoch, the performance on training/validation/test sets is reported. You may exit the program at any time.
+
+## Cite
+
+Citation info is on the way...
