@@ -14,6 +14,8 @@ tqdm
 
 Preprocessed pickled data including everything else for the WordNet data and SemEval-2016 can be downloaded [here](https://drive.google.com/file/d/1p70QAe9yYD1kEAeDyjPvnfJKILaS2ZRl/view?usp=sharing). If you run on SemEval-2016, use [dev_twodatasets.tsv](https://drive.google.com/file/d/1n3XuwiXe3HQAl3ogDV0VI3FNe5MwOYt4/view?usp=sharing) instead of dev_wnbo_hyper.tsv.  Caution: it may take 40+ GB memory.
 
+Go to https://morningmoni.github.io/wordnet-vis/ to see the visualization of WordNet subtrees.
+
 **DIY** 
 
 - To build everything from scratch, first download corpora such as Wikipedia, [UMBC](https://ebiquity.umbc.edu/resource/html/id/351/UMBC-webbase-corpus), and [1 Billion Word Language Model Benchmark](http://www.statmt.org/lm-benchmark/).
