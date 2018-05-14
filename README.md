@@ -29,5 +29,11 @@ Run train_RL.py for training and testing. All the parameters are in *argparse* a
 In each epoch, the performance on training/validation/test sets is reported. You may exit the program at any time.
 
 ## Cite
-
-Citation info is on the way...
+<pre>
+@article{mao2018end,
+  title={End-to-End Reinforcement Learning for Automatic Taxonomy Induction},
+  author={Mao, Yuning and Ren, Xiang and Shen, Jiaming and Gu, Xiaotao and Han, Jiawei},
+  journal={arXiv preprint arXiv:1805.04044},
+  year={2018}
+}
+</pre>
