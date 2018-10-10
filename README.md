@@ -30,10 +30,18 @@ In each epoch, the performance on training/validation/test sets is reported. You
 
 ## Cite
 <pre>
-@article{mao2018end,
-  title={End-to-End Reinforcement Learning for Automatic Taxonomy Induction},
-  author={Mao, Yuning and Ren, Xiang and Shen, Jiaming and Gu, Xiaotao and Han, Jiawei},
-  journal={arXiv preprint arXiv:1805.04044},
-  year={2018}
+@InProceedings{P18-1229,
+  author = 	"Mao, Yuning
+		and Ren, Xiang
+		and Shen, Jiaming
+		and Gu, Xiaotao
+		and Han, Jiawei",
+  title = 	"End-to-End Reinforcement Learning for Automatic Taxonomy Induction",
+  booktitle = 	"Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+  year = 	"2018",
+  publisher = 	"Association for Computational Linguistics",
+  pages = 	"2462--2472",
+  location = 	"Melbourne, Australia",
+  url = 	"http://aclweb.org/anthology/P18-1229"
 }
 </pre>
